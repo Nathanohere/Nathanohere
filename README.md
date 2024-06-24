@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I'm currently working on building a Finance management system.<br>👯 I'm looking to collaborate on open source projects.<br>🌱 I'm currently learning Spring Boot.<br>💬 Ask me about anything<br>📫 How to reach me nathanohere@gmail.com <br><br>
+<ul>
+  <li>🔭 I'm currently working on building a Finance management system.</li>
+  <li>👯 I'm looking to collaborate on open source projects.</li>
+  <li>🌱 I'm currently learning Spring Boot.</li>
+  <li>💬 Ask me about anything</li>
+  <li>📫 How to reach me nathanohere@gmail.com</li>
+</ul>
 
 
 ## 🌐 Socials:
